@@ -1,0 +1,8 @@
+numpy
+pandas
+panel
+param
+plotly
+prophet
+notebook
+chart_studio
